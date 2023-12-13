@@ -15,6 +15,9 @@ $ yarn start
 
 # generate static project
 $ yarn generate
+
+# デプロイURL
+https://nuxt-website-kappa.vercel.app/
 ```
 
 ```設定
