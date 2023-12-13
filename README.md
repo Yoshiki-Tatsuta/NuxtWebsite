@@ -15,10 +15,10 @@ $ yarn start
 
 # generate static project
 $ yarn generate
+```
 
 # デプロイURL
 - https://nuxt-website-kappa.vercel.app/
-```
 
 ```設定
 create-nuxt-app v5.0.0
