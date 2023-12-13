@@ -17,7 +17,7 @@ $ yarn start
 $ yarn generate
 ```
 
-# デプロイURL
+## デプロイURL
 - https://nuxt-website-kappa.vercel.app/
 
 ```設定
