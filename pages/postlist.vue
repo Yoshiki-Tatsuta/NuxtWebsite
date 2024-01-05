@@ -7,7 +7,7 @@ v-container(fill-height)
       p 
         | ・
         NuxtLink(to="/kijiList/kiji001") python環境構築
-    v-col(cols="2" class="text-center")
+    v-col(class="text-center" cols="2")
       h2 広告
 </template>
 
